@@ -1,0 +1,4 @@
+ALPACA:
+  API_KEY: "PKN7W2NSUGKRJSCEZL7QTOBJX7"      # Your Paper API Key
+  API_SECRET: "CBQGxWTp4whSLWzSZ4dsNQeauwWZ199S4DrQDN6Z1aGZ"  # Your Paper Secret Key
+  BASE_URL: "https://paper-api.alpaca.markets" # Paper URL (not live)
